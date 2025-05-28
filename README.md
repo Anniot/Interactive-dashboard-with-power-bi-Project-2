@@ -1,5 +1,7 @@
 # 📊 Analyse de donne avec Power BI ! (Portfolio)
 **📍 [Vous pouvez télécharger le projet terminer ici !](https://github.com/Anniot/Interactive-dashboard-with-power-bi-Project-2/raw/refs/heads/main/TP3.zip)**
+
+**![📍Aperçu du dashboard en pdf](https://github.com/user-attachments/files/20489159/TP3.pdf)**
 ## 🕵🏻‍♂️ Aperçu du projet:
 Grâce à un fichier Excel, notre objectifs est de cerner des questions clés:
 - Sur les **Resources hummaines** 👥 (Nombre de commerciaux par site/ville, âge moyen, Moyenne de Salaire de base par site/ville).
@@ -69,6 +71,12 @@ Cette vue aide à repérer les zones les plus dynamiques et à valoriser les col
 ## 📌 Conclusion
 
 Ce projet illustre un processus complet d’analyse de données : de la **collecte** à la **visualisation**, en passant par le **nettoyage**, la **modélisation**, et l’**interprétation**. À travers la création d’un **tableau de bord interactif avec Power BI**, nous avons pu extraire des insights concrets sur les ressources humaines, les services proposés et les performances commerciales.
+### 🛠️ Technologies utilisées
+- Power BI
+- Power BI Service
+- Excel
+- Git & GitHub
+
 
 Le résultat final offre un support visuel efficace pour faciliter la **prise de décision éclairée**.
 
