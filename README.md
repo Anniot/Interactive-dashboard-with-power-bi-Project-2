@@ -4,8 +4,8 @@
 **![📍Aperçu du dashboard en pdf](https://github.com/user-attachments/files/20489159/TP3.pdf)**
 ## 🕵🏻‍♂️ Aperçu du projet:
 Grâce à un fichier Excel, notre objectifs est de cerner des questions clés:
-- Sur les **Resources hummaines** 👥 (Nombre de commerciaux par site/ville, âge moyen, Moyenne de Salaire de base par site/ville).
-- Concernant le **services** : on veut svavoir quels sont les services présentés par l'entreprise, lequel est le plus rentable 💸, combien de commerciaux a t-on par services ?
+- Sur les **Resources humaines** 👥 (Nombre de commerciaux par site/ville, âge moyen, Moyenne de Salaire de base par site/ville).
+- Concernant les **services** : on veut savoir quels sont les services présentés par l'entreprise, lequel est le plus rentable 💸, combien de commerciaux a t-on par services ?
 -  Et sur les **ventes** : dans quelle cite/ville accumule-t-on le plus de chiffre d'affaire 💸? Qui sont les meilleures commerciaux ?.
 
 
